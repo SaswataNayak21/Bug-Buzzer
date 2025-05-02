@@ -65,7 +65,7 @@ public class Quiz extends JFrame implements ActionListener{
         questions[3][3] = "Marker Interface";
         questions[3][4] = "CharSequence Interface";
 
-        questions[4][0] = "In which memory a String is stored, when we create a string using new                       operator?"; 
+        questions[4][0] = "In which memory a String is stored, when we create a string using new operator?"; 
         questions[4][1] = "Stack";
         questions[4][2] = "String memory";
         questions[4][3] = "Random storage space";
