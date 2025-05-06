@@ -36,6 +36,7 @@ javac quiz/application/*.java
 # Launch app
 java quiz.application.Login
 
+```
 Note: Ensure that the icons/score.png image resource is present in the correct directory structure (icons folder in your classpath).
       Make sure you have Java installed and properly set in your system path.
 ---
