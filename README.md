@@ -54,7 +54,7 @@ bug-buzzer/
     └── score.png
 
 ---
-##🧪 Testing Highlights
+## 🧪 Testing Highlights
 | Test Case            | Expected Behavior                             |
 | -------------------- | --------------------------------------------- |
 | Login Flow           | Accepts valid name input and moves to Rules   |
