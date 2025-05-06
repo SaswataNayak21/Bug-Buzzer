@@ -1,8 +1,7 @@
 # 🐞 Bug Buzzer — The Ultimate Programming Quiz Game
-
+---
 **Bug Buzzer** is an interactive, Java-based quiz game designed to test and entertain programmers with engaging, rule-based gameplay. With a user-friendly interface and humorous quiz rules, Bug Buzzer offers a refreshing twist on traditional MCQ quizzes, making coding education more fun and interactive.
-
-📌 **Project Type**: Desktop Application (Java Swing)  
+📌 Project Type: Desktop Application (Java Swing)  
 ---
 
 ## 🛠️ Technologies & Tools Used
@@ -26,20 +25,23 @@
 
 ## 🚀 Installation Instructions
 
-1. **Clone the Repository:**
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/bug-buzzer.git
+cd bug-buzzer
 
-   ```bash
-   git clone https://github.com/SaswataNayak21/Bug-Buzzer.git
-   cd bug-buzzer
+# Compile Java files
+javac quiz/application/*.java
 
-2. **Compile and run the application:**
-   javac quiz/application/*.java
-   java quiz.application.Login
+# Launch app
+java quiz.application.Login
 
 Note: Ensure that the icons/score.png image resource is present in the correct directory structure (icons folder in your classpath).
       Make sure you have Java installed and properly set in your system path.
+---
 
 ## 📁 Project Structure
+
 bug-buzzer/
 ├── quiz/
 │   └── application/
@@ -49,8 +51,9 @@ bug-buzzer/
 │       └── Score.java
 └── icons/
     └── score.png
+
 ---
-#🧪 Testing Highlights
+##🧪 Testing Highlights
 | Test Case            | Expected Behavior                             |
 | -------------------- | --------------------------------------------- |
 | Login Flow           | Accepts valid name input and moves to Rules   |
