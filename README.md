@@ -1,6 +1,6 @@
 # 🐞 Bug Buzzer — The Ultimate Programming Quiz Game
 ---
-**Bug Buzzer** is an interactive, Java-based quiz game designed to test and entertain programmers with engaging, rule-based gameplay. With a user-friendly interface and humorous quiz rules, Bug Buzzer offers a refreshing twist on traditional MCQ quizzes, making coding education more fun and interactive.
+Bug Buzzer is an interactive, Java-based quiz game designed to test and entertain programmers with engaging, rule-based gameplay. With a user-friendly interface and humorous quiz rules, Bug Buzzer offers a refreshing twist on traditional MCQ quizzes, making coding education more fun and interactive.
 📌 Project Type: Desktop Application (Java Swing)  
 ---
 
